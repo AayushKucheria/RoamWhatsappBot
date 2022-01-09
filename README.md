@@ -15,7 +15,7 @@ Tech:
   - Server + DB: Javascript on replit  
   - Whatsapp: Twilio  
 
-**Roam Team**: Check out How to improve upon the current setup  
+**Roam Team**: Check out the section "How to improve upon the current setup" below  
 
 ---  
 
