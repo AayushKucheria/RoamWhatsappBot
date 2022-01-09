@@ -1,5 +1,9 @@
 # Project/Roam Whatsapp Bot
+
+**Live Code Repository (on Replit)**: https://replit.com/@AayushKucheria/Roam-Whatsapp-Bot?v=1  
+
 Page Status: Public  
+
 
 Author: [@aay17ush](https://twitter.com/Aay17ush)  
 
@@ -9,10 +13,9 @@ Credits:
 
 **Quick Links**  
   - Twilio: https://www.twilio.com/  
-  - Replit Repository: https://replit.com/@AayushKucheria/Roam-Whatsapp-Bot?v=1  
 
 Tech:   
-  - Server + DB: Javascript on replit  
+  - Server + DB: Javascript on replit
   - Whatsapp: Twilio  
 
 **Roam Team**: Check out the section "How to improve upon the current setup" below  
