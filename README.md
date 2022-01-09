@@ -65,8 +65,7 @@ The current setup takes 12-15 minutes. But once it's done, you won't have to wor
         - `Status callback url`: https://roam-whatsapp-bot.abd3.repl.co/incoming  
     - Save your changes here (scroll down if you don't see the button).  
     - Finally, head to your roam graph and open the page roam/js.  
-      - Copy the indented blocks below exactly to your roam/js - Red + Code block underneath it.   
-        - {{roam/js}}    
+    - Copy the code in [addCodeToRoam.js](https://github.com/AayushKucheria/RoamWhatsappBot/blob/main/addCodeToRoam.js) according to the instructions specified in the file.    
     - Run the red block - `Yes I know what I'm doing`.  
   - **And you're done!** Now whenever you send any messages to the bot, it'll store those messages on our replit server. Then when you open Roam, it'll add those messages to your daily notes and delete them from the server.  
 
