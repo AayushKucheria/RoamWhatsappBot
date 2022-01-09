@@ -5,7 +5,7 @@ window.whatsappParams = {
   // 0=Top, -1=Bottom of Page
   order: 0,
   noteOrder: 0, // Append new notes {random for now} 
-  replitUrl: "paste url/roam here" // TODO
+  replitUrl: "paste url/roam here" // TODO (looks like https://roam-whatsapp-bot.aayushkucheria.repl.co/roam)
 }
 
 const whatsappParams = window.whatsappParams;
